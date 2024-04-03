@@ -2,19 +2,18 @@
 ---
 <div class="row">
   {% if site.enable_publication_thumbnails %}
-    <div class="col-sm-2 {% if entry.preview %}preview{% else %}abbr{% endif %}">
-      {% if entry.preview %}
-        {% if entry.preview contains '://' %}
-          <img class="preview z-depth-1 rounded" src="{{ entry.preview }}">
+    <div class="col-sm-3 {% if entry.preview %}preview{% else %}abbr{% endif %}">
+  {% if entry.preview %}
+    {% if entry.preview contains '://' %}
+      <img class="preview z-depth-1 rounded" src="{{ entry.preview }}">
         {% else %}
           {% assign entry_path = entry.preview | prepend: '/assets/img/publication_preview/' %}
           {%
             include figure.liquid
-            loading="eager"
             path=entry_path
-            sizes = "200px"
+            sizes = "500px"
             class="preview z-depth-1 rounded"
-            zoomable=false
+            zoomable=true
             alt=entry.preview
           %}
         {% endif %}
@@ -39,9 +38,15 @@
   {% endif %}
 
   <!-- Entry bib key -->
-  <div id="{{entry.key}}" class="{% if site.enable_publication_thumbnails %}col-sm-8{% else %}col-sm-10{% endif %}">
+  <div id="{{entry.key}}" class="{% if site.enable_publication_thumbnails %}col-sm-7{% else %}col-sm-10{% endif %} text-justify">
     <!-- Title -->
-    <div class="title">{{ entry.title }}</div>
+  <div class="title">
+  {% if entry.url %}
+    <a href="{{ entry.url }}">{{ entry.title }}</a>
+  {% else %}
+    {{ entry.title }}
+  {% endif %}
+</div>
     <!-- Author -->
     <div class="author">
       {% assign author_array_size = entry.author_array | size %}
@@ -74,22 +79,22 @@
           {% if forloop.first == false %},&nbsp;{% endif %}
           {%- if forloop.last and author_array_limit == author_array_size %}and&nbsp;{% endif -%}
         {% endif %}
-        {%- if author_is_self -%}
-          <em>
-            {{- author.first }}
-            {{ author.last -}}
-          </em>
-        {%- else -%}
-          {%- if coauthor_url -%}
-            <a href="{{coauthor_url}}">
-              {{- author.first }}
-              {{ author.last -}}
-            </a>
-          {%- else -%}
-            {{ author.first }}
-            {{ author.last }}
-          {% endif %}
-        {%- endif -%}
+{%- if author_is_self -%}
+  <em><strong>
+    {{- author.first }}
+    {{ author.last -}}
+  </strong></em>
+{%- else -%}
+  {%- if coauthor_url -%}
+    <a href="{{coauthor_url}}">
+      {{- author.first }}
+      {{ author.last -}}
+    </a>
+  {%- else -%}
+    {{ author.first }}
+    {{ author.last }}
+  {% endif %}
+{%- endif -%}
       {% endfor %}
       {%- assign more_authors = author_array_size | minus: author_array_limit -%}
 
@@ -295,3 +300,17 @@
     {% endif %}
   </div>
 </div>
+
+<style>
+  .text-justify {
+    text-align: justify;
+  }
+</style>
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/medium-zoom/0.2.7/medium-zoom.min.js"></script>
+<script>
+  document.addEventListener('DOMContentLoaded', function() {
+    const zoomImages = document.querySelectorAll('.zoom');
+    mediumZoom(zoomImages);
+  });
+</script>
