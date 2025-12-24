@@ -91,7 +91,7 @@ blog_description: a simple whitespace theme for academics
 permalink: /blog/:year/:title/
 lsi: false # produce an index for related posts
 
-Pagination
+# Pagination
 pagination:
   enabled: true
 
