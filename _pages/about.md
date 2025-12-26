@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Herchel–Smith Postdoctoral Fellow. College Research Associate (CRA) at [Emmanuel College]([https://bernardes.group.ch.cam.ac.uk](https://www.emma.cam.ac.uk/people/javier-bonet-aletá)/)
+subtitle: Herchel–Smith Postdoctoral Fellow. College Research Associate (CRA) at [Emmanuel College](https://www.emma.cam.ac.uk/people/javier-bonet-aletá/).
 
 profile:
   align: right
