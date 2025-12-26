@@ -263,8 +263,8 @@ display_categories: ["external-services"] # these categories will be displayed o
 # -----------------------------------------------------------------------------
 
 scholar:
-  last_name: [Bonet-Aleta]
-  first_name: [Javier]
+  last_name: [Bonet–Aleta,Bonet–Aleta*]
+  first_name: [J.]
 
   style: apa
   locale: en
