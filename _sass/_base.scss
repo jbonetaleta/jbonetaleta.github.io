@@ -757,11 +757,11 @@ footer.sticky-bottom {
 
         abbr {
           display: inline-block;
-          background-color: var(--global-theme-color);
+          background-color: transparent !important;
           margin-bottom: 0.5rem;
 
           a {
-            color: white;
+            color: blue;
 
             &:hover {
               text-decoration: none;
