@@ -1,6 +1,6 @@
 ---
-layout: about
-title: about
+layout: About
+title: About
 permalink: /
 subtitle: Herchel–Smith Postdoctoral Fellow. College Research Associate (CRA) at Emmanuel College.
 
