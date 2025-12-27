@@ -80,7 +80,7 @@ ninja.data = [{
         title: 'LinkedIn',
         section: 'Socials',
         handler: () => {
-          window.open("https://www.linkedin.com/in/Javier-Bonet-Aleta# your LinkedIn user name", "_blank");
+          window.open("https://www.linkedin.com/in/javier-bonet-aletá-83117013a/", "_blank");
         },
       },{
         id: 'social-orcid',
@@ -95,13 +95,6 @@ ninja.data = [{
         section: 'Socials',
         handler: () => {
           window.open("https://scholar.google.com/citations?user=m3Ds-fwAAAAJ", "_blank");
-        },
-      },{
-        id: 'social-custom_social',
-        title: 'Custom_social',
-        section: 'Socials',
-        handler: () => {
-          window.open("https://www.alberteinstein.com/", "_blank");
         },
       },{
       id: 'light-theme',
