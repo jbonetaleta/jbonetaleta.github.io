@@ -1,16 +1,16 @@
 metadata:
-  last_updated: '2026-01-26'
+  last_updated: '2026-02-02'
 papers:
   m3Ds-fwAAAAJ:-f6ydRqryjwC:
     citations: 5
     title: An Activity-Based Sensing Approach to Monitor Nanomaterial-Promoted Changes in Labile Metal Pools in Living Systems
     year: '2026'
   m3Ds-fwAAAAJ:0EnyYjriUFMC:
-    citations: 11
+    citations: 12
     title: Laser-induced tuning of carbon nanosensitizers to maximize nitrogen doping and reactive oxygen species production in the visible range
     year: '2023'
   m3Ds-fwAAAAJ:2osOgNQ5qMEC:
-    citations: 24
+    citations: 23
     title: Recent advances in the design and photocatalytic enhanced performance of gold plasmonic nanostructures decorated with non-titania based semiconductor hetero-nanoarchitectures
     year: '2020'
   m3Ds-fwAAAAJ:4TOpqqG69KYC:
@@ -22,7 +22,7 @@ papers:
     title: "Unravelling the cell death mechanism triggered by catalytic copper\u2013iron nanoparticles in vitro and in vivo"
     year: '2025'
   m3Ds-fwAAAAJ:9ZlFYXVOiuMC:
-    citations: 1
+    citations: 2
     title: 'Microwave and Polymer-Assisted Synthesis of Ultrasmall Polydopamine Nanoparticles: Applications as Support for Peroxidase-like Activity and as Intracellular Iron Delivery Platform'
     year: '2025'
   m3Ds-fwAAAAJ:M3ejUd6NZC8C:
@@ -42,7 +42,7 @@ papers:
     title: Synergistic assembly of gold and copper-iron oxide nanocatalysts to promote the simultaneous depletion of glucose and glutathione
     year: '2023'
   m3Ds-fwAAAAJ:Tyk-4Ss8FVUC:
-    citations: 26
+    citations: 28
     title: Gold-platinum nanoparticles with core-shell configuration as efficient oxidase-like nanosensors for glutathione detection
     year: '2022'
   m3Ds-fwAAAAJ:UeHWp8X0CEIC:
@@ -54,7 +54,7 @@ papers:
     title: "Unveiling the interplay between homogeneous and heterogeneous catalytic mechanisms in copper\u2013iron nanoparticles working under chemically relevant tumour conditions"
     year: '2022'
   m3Ds-fwAAAAJ:WF5omc3nYNoC:
-    citations: 49
+    citations: 50
     title: 'Platinum nanoplatforms: classic catalysts claiming a prominent role in cancer therapy'
     year: '2022'
   m3Ds-fwAAAAJ:Wp0gIr-vW9MC:
@@ -77,14 +77,14 @@ papers:
     citations: 0
     title: Nanomedical approaches to deplete intracellular glutathione in oncology
     year: '2026'
-  m3Ds-fwAAAAJ:hFOr9nPyWt4C:
-    citations: 0
-    title: "A nanomedicine approach to targeting cuproplasia in cancer: Labile copper sequestration using polydopamine nanoparticles blocks tumor growth in vivo through altering metabolism \u2026"
-    year: '2023'
   m3Ds-fwAAAAJ:hqOjcs7Dif8C:
     citations: 8
     title: 'Nitrogen-doped carbon nanodots deposited on titania nanoparticles: Unconventional near-infrared active photocatalysts for cancer therapy'
     year: '2023'
+  m3Ds-fwAAAAJ:mB3voiENLucC:
+    citations: 0
+    title: A Bifunctional Small Molecule Degrader of the Long Non-Coding RNA MALAT1 Triplex
+    year: '2026'
   m3Ds-fwAAAAJ:mVmsd5A6BfQC:
     citations: 6
     title: Copper-based nanoplatforms and their role in cancer therapy
@@ -98,7 +98,7 @@ papers:
     title: Gold-based nanoparticles on amino-functionalized mesoporous silica supports as nanozymes for glucose oxidation
     year: '2020'
   m3Ds-fwAAAAJ:ufrVoPGSRksC:
-    citations: 34
+    citations: 35
     title: 'Manganese oxide nano-platforms in cancer therapy: Recent advances on the development of synergistic strategies targeting the tumor microenvironment'
     year: '2022'
   m3Ds-fwAAAAJ:zYLM7Y9cAGgC:
