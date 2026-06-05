@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-05-25'
+  last_updated: '2026-06-05'
 papers:
   m3Ds-fwAAAAJ:-f6ydRqryjwC:
     citations: 5
@@ -10,7 +10,7 @@ papers:
     title: Laser-induced tuning of carbon nanosensitizers to maximize nitrogen doping and reactive oxygen species production in the visible range
     year: '2023'
   m3Ds-fwAAAAJ:2osOgNQ5qMEC:
-    citations: 23
+    citations: 24
     title: Recent advances in the design and photocatalytic enhanced performance of gold plasmonic nanostructures decorated with non-titania based semiconductor hetero-nanoarchitectures
     year: '2020'
   m3Ds-fwAAAAJ:4TOpqqG69KYC:
@@ -38,7 +38,7 @@ papers:
     title: 'Heterogeneous-Driven Glutathione Oxidation: Defining the Catalytic Role of Chalcopyrite Nanoparticles'
     year: '2023'
   m3Ds-fwAAAAJ:QIV2ME_5wuYC:
-    citations: 26
+    citations: 28
     title: 2D versus 3D tumor-on-chip models to study the impact of tumor organization on metabolic patterns in vitro
     year: '2025'
   m3Ds-fwAAAAJ:Se3iqnhoufwC:
@@ -50,7 +50,7 @@ papers:
     title: Recent developments of iron-based nanosystems as enzyme-mimicking surrogates of interest in tumor microenvironment treatment
     year: '2022'
   m3Ds-fwAAAAJ:Tyk-4Ss8FVUC:
-    citations: 31
+    citations: 33
     title: Gold-platinum nanoparticles with core-shell configuration as efficient oxidase-like nanosensors for glutathione detection
     year: '2022'
   m3Ds-fwAAAAJ:UeHWp8X0CEIC:
@@ -62,27 +62,27 @@ papers:
     title: "Unveiling the interplay between homogeneous and heterogeneous catalytic mechanisms in copper\u2013iron nanoparticles working under chemically relevant tumour conditions"
     year: '2022'
   m3Ds-fwAAAAJ:WF5omc3nYNoC:
-    citations: 53
+    citations: 54
     title: 'Platinum nanoplatforms: classic catalysts claiming a prominent role in cancer therapy'
     year: '2022'
   m3Ds-fwAAAAJ:Wp0gIr-vW9MC:
-    citations: 6
+    citations: 7
     title: "A Highly\u2010Active Chemodynamic Agent Based on In Situ Generated Copper Complexes from Copper Hexacyanoferrate Nanoparticles"
     year: '2025'
   m3Ds-fwAAAAJ:Y0pCki6q_DkC:
-    citations: 72
+    citations: 73
     title: Glutathione-Triggered catalytic response of Copper-Iron mixed oxide Nanoparticles. Leveraging tumor microenvironment conditions for chemodynamic therapy
     year: '2022'
   m3Ds-fwAAAAJ:YOwf2qJgpHMC:
-    citations: 11
+    citations: 12
     title: 'Nanoparticle-catalyzed transamination under tumor microenvironment conditions: a novel tool to disrupt the pool of amino acids and GSSG in cancer cells'
     year: '2024'
   m3Ds-fwAAAAJ:Zph67rFs4hoC:
-    citations: 22
+    citations: 23
     title: Platinum-based nanodendrites as glucose oxidase-mimicking surrogates
     year: '2023'
   m3Ds-fwAAAAJ:hC7cP41nSMkC:
-    citations: 3
+    citations: 4
     title: Nanomedical approaches to deplete intracellular glutathione in oncology
     year: '2026'
   m3Ds-fwAAAAJ:hqOjcs7Dif8C:
@@ -106,6 +106,6 @@ papers:
     title: 'Manganese oxide nano-platforms in cancer therapy: Recent advances on the development of synergistic strategies targeting the tumor microenvironment'
     year: '2022'
   m3Ds-fwAAAAJ:zYLM7Y9cAGgC:
-    citations: 18
+    citations: 19
     title: Engineered nanostructured photocatalysts for cancer therapy
     year: '2022'
