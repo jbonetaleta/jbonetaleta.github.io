@@ -1,16 +1,16 @@
 metadata:
-  last_updated: '2026-06-22'
+  last_updated: '2026-07-13'
 papers:
   m3Ds-fwAAAAJ:-f6ydRqryjwC:
-    citations: 5
+    citations: 6
     title: An Activity-Based Sensing Approach to Monitor Nanomaterial-Promoted Changes in Labile Metal Pools in Living Systems
     year: '2026'
   m3Ds-fwAAAAJ:0EnyYjriUFMC:
-    citations: 12
+    citations: 13
     title: Laser-induced tuning of carbon nanosensitizers to maximize nitrogen doping and reactive oxygen species production in the visible range
     year: '2023'
   m3Ds-fwAAAAJ:2osOgNQ5qMEC:
-    citations: 25
+    citations: 26
     title: Recent advances in the design and photocatalytic enhanced performance of gold plasmonic nanostructures decorated with non-titania based semiconductor hetero-nanoarchitectures
     year: '2020'
   m3Ds-fwAAAAJ:4TOpqqG69KYC:
@@ -18,7 +18,7 @@ papers:
     title: "Nanomedicine Targeting Cuproplasia in Cancer: Labile Copper Sequestration Using Polydopamine Particles Blocks Tumor Growth In Vivo through Altering \u2026"
     year: '2024'
   m3Ds-fwAAAAJ:7PzlFSSx8tAC:
-    citations: 2
+    citations: 4
     title: "Unravelling the cell death mechanism triggered by catalytic copper\u2013iron nanoparticles in vitro and in vivo"
     year: '2025'
   m3Ds-fwAAAAJ:9ZlFYXVOiuMC:
@@ -30,7 +30,7 @@ papers:
     title: A Bifunctional Small Molecule Degrader of the Long Noncoding RNA MALAT1 Triplex
     year: '2026'
   m3Ds-fwAAAAJ:M3ejUd6NZC8C:
-    citations: 15
+    citations: 17
     title: Small Molecule RNA Degraders
     year: '2024'
   m3Ds-fwAAAAJ:MXK_kJrjxJIC:
@@ -38,7 +38,7 @@ papers:
     title: 'Heterogeneous-Driven Glutathione Oxidation: Defining the Catalytic Role of Chalcopyrite Nanoparticles'
     year: '2023'
   m3Ds-fwAAAAJ:QIV2ME_5wuYC:
-    citations: 31
+    citations: 35
     title: 2D versus 3D tumor-on-chip models to study the impact of tumor organization on metabolic patterns in vitro
     year: '2025'
   m3Ds-fwAAAAJ:Se3iqnhoufwC:
@@ -62,7 +62,7 @@ papers:
     title: "Unveiling the interplay between homogeneous and heterogeneous catalytic mechanisms in copper\u2013iron nanoparticles working under chemically relevant tumour conditions"
     year: '2022'
   m3Ds-fwAAAAJ:WF5omc3nYNoC:
-    citations: 55
+    citations: 58
     title: 'Platinum nanoplatforms: classic catalysts claiming a prominent role in cancer therapy'
     year: '2022'
   m3Ds-fwAAAAJ:Wp0gIr-vW9MC:
@@ -74,11 +74,11 @@ papers:
     title: Glutathione-Triggered catalytic response of Copper-Iron mixed oxide Nanoparticles. Leveraging tumor microenvironment conditions for chemodynamic therapy
     year: '2022'
   m3Ds-fwAAAAJ:YOwf2qJgpHMC:
-    citations: 11
+    citations: 13
     title: 'Nanoparticle-catalyzed transamination under tumor microenvironment conditions: a novel tool to disrupt the pool of amino acids and GSSG in cancer cells'
     year: '2024'
   m3Ds-fwAAAAJ:Zph67rFs4hoC:
-    citations: 22
+    citations: 24
     title: Platinum-based nanodendrites as glucose oxidase-mimicking surrogates
     year: '2023'
   m3Ds-fwAAAAJ:hC7cP41nSMkC:
@@ -90,7 +90,7 @@ papers:
     title: 'Nitrogen-doped carbon nanodots deposited on titania nanoparticles: Unconventional near-infrared active photocatalysts for cancer therapy'
     year: '2023'
   m3Ds-fwAAAAJ:mVmsd5A6BfQC:
-    citations: 12
+    citations: 13
     title: Copper-based nanoplatforms and their role in cancer therapy
     year: '2025'
   m3Ds-fwAAAAJ:qUcmZB5y_30C:
