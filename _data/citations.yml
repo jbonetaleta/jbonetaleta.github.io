@@ -1,12 +1,12 @@
 metadata:
-  last_updated: '2026-08-05'
+  last_updated: '2026-08-19'
 papers:
   m3Ds-fwAAAAJ:-f6ydRqryjwC:
-    citations: 6
+    citations: 7
     title: An Activity-Based Sensing Approach to Monitor Nanomaterial-Promoted Changes in Labile Metal Pools in Living Systems
     year: '2026'
   m3Ds-fwAAAAJ:0EnyYjriUFMC:
-    citations: 13
+    citations: 14
     title: Laser-induced tuning of carbon nanosensitizers to maximize nitrogen doping and reactive oxygen species production in the visible range
     year: '2023'
   m3Ds-fwAAAAJ:2osOgNQ5qMEC:
@@ -18,7 +18,7 @@ papers:
     title: 'Nanomedicine targeting cuproplasia in cancer: labile copper sequestration using polydopamine particles blocks tumor growth in vivo through altering metabolism and redox homeostasis'
     year: '2024'
   m3Ds-fwAAAAJ:7PzlFSSx8tAC:
-    citations: 5
+    citations: 6
     title: "Unravelling the cell death mechanism triggered by catalytic copper\u2013iron nanoparticles in vitro and in vivo"
     year: '2025'
   m3Ds-fwAAAAJ:9ZlFYXVOiuMC:
@@ -38,7 +38,7 @@ papers:
     title: 'Heterogeneous-Driven Glutathione Oxidation: Defining the Catalytic Role of Chalcopyrite Nanoparticles'
     year: '2023'
   m3Ds-fwAAAAJ:QIV2ME_5wuYC:
-    citations: 42
+    citations: 46
     title: 2D versus 3D tumor-on-chip models to study the impact of tumor organization on metabolic patterns in vitro
     year: '2025'
   m3Ds-fwAAAAJ:R3hNpaxXUhUC:
@@ -54,7 +54,7 @@ papers:
     title: Recent developments of iron-based nanosystems as enzyme-mimicking surrogates of interest in tumor microenvironment treatment
     year: '2022'
   m3Ds-fwAAAAJ:Tyk-4Ss8FVUC:
-    citations: 35
+    citations: 36
     title: Gold-platinum nanoparticles with core-shell configuration as efficient oxidase-like nanosensors for glutathione detection
     year: '2022'
   m3Ds-fwAAAAJ:UeHWp8X0CEIC:
@@ -66,7 +66,7 @@ papers:
     title: "Unveiling the interplay between homogeneous and heterogeneous catalytic mechanisms in copper\u2013iron nanoparticles working under chemically relevant tumour conditions"
     year: '2022'
   m3Ds-fwAAAAJ:WF5omc3nYNoC:
-    citations: 57
+    citations: 61
     title: 'Platinum nanoplatforms: classic catalysts claiming a prominent role in cancer therapy'
     year: '2022'
   m3Ds-fwAAAAJ:Wp0gIr-vW9MC:
@@ -74,7 +74,7 @@ papers:
     title: "A highly\u2010active chemodynamic agent based on in situ generated copper complexes from copper hexacyanoferrate nanoparticles"
     year: '2025'
   m3Ds-fwAAAAJ:Y0pCki6q_DkC:
-    citations: 76
+    citations: 77
     title: Glutathione-Triggered catalytic response of Copper-Iron mixed oxide Nanoparticles. Leveraging tumor microenvironment conditions for chemodynamic therapy
     year: '2022'
   m3Ds-fwAAAAJ:YOwf2qJgpHMC:
@@ -82,7 +82,7 @@ papers:
     title: 'Nanoparticle-catalyzed transamination under tumor microenvironment conditions: a novel tool to disrupt the pool of amino acids and GSSG in cancer cells'
     year: '2024'
   m3Ds-fwAAAAJ:Zph67rFs4hoC:
-    citations: 24
+    citations: 25
     title: Platinum-based nanodendrites as glucose oxidase-mimicking surrogates
     year: '2023'
   m3Ds-fwAAAAJ:hC7cP41nSMkC:
@@ -90,15 +90,15 @@ papers:
     title: Nanomedical approaches to deplete intracellular glutathione in oncology
     year: '2026'
   m3Ds-fwAAAAJ:hqOjcs7Dif8C:
-    citations: 10
+    citations: 11
     title: 'Nitrogen-doped carbon nanodots deposited on titania nanoparticles: Unconventional near-infrared active photocatalysts for cancer therapy'
     year: '2023'
   m3Ds-fwAAAAJ:mVmsd5A6BfQC:
-    citations: 14
+    citations: 16
     title: Copper-based nanoplatforms and their role in cancer therapy
     year: '2025'
   m3Ds-fwAAAAJ:qUcmZB5y_30C:
-    citations: 0
+    citations: 1
     title: "An \xE0 la Carte Synthesis Approach for Chemically Linking Au, Pt, and Pd Nanoparticles to Few\u2010Layer 2H\u2010MoS2"
     year: '2025'
   m3Ds-fwAAAAJ:u5HHmVD_uO8C:
@@ -106,7 +106,7 @@ papers:
     title: Gold-based nanoparticles on amino-functionalized mesoporous silica supports as nanozymes for glucose oxidation
     year: '2020'
   m3Ds-fwAAAAJ:ufrVoPGSRksC:
-    citations: 39
+    citations: 40
     title: 'Manganese oxide nano-platforms in cancer therapy: Recent advances on the development of synergistic strategies targeting the tumor microenvironment'
     year: '2022'
   m3Ds-fwAAAAJ:zYLM7Y9cAGgC:
